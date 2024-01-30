@@ -1,4 +1,4 @@
-# Waze User Churn Prediction
+# Waze: User Churn Prediction
 
 ## Introduction
 
@@ -62,4 +62,5 @@ In the journey ahead, we will explore the intricacies of the random forest and X
 
 ---
 
-**Note:** The information presented in this README.md file is based on a fictional scenario created for practical purposes.
+**Note:** The snippets provided above are summaries. For detailed code, please refer to the Jupyter Notebook file.
+
